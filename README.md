@@ -12,15 +12,16 @@ This project analyzes Reddit data to classify posts into Positive, Neutral, or N
 - Cleans and preprocesses data for meaningful insights.
 
 ## File Structure
-/Reddit-Sentiment-Analysis /data reddit_top_posts.csv
-# Raw Reddit data cleaned_reddit_data.csv
-# Cleaned data sentiment_analysis.csv
-# Sentiment analysis results final_reddit_analysis.csv 
-# Fully processed dataset /visualizations sentiment_distribution.png 
-# Sentiment distribution plot engagement_by_sentiment.png 
-# Engagement trends by sentiment reddit_analysis.py 
-# Main Python script README.md 
-# Project documentation
+- Reddit-Sentiment-Analysis 
+- data reddit_top_posts.csv
+- Raw Reddit data cleaned_reddit_data.csv
+- Cleaned data sentiment_analysis.csv
+- Sentiment analysis results final_reddit_analysis.csv 
+- Fully processed dataset /visualizations sentiment_distribution.png 
+- Sentiment distribution plot engagement_by_sentiment.png 
+- Engagement trends by sentiment reddit_analysis.py 
+- Main Python script README.md 
+- Project documentation
 
 
 ## Tools and Libraries
